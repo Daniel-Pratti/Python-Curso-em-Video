@@ -1,2 +1,0 @@
-"""Enunciado não encontrado
-"""

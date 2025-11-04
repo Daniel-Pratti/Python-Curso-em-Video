@@ -1,5 +1,0 @@
-"""Exercício Python 052 - Números primos
-Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
-total = 0
-num = int(input("Digite um número: "))
-"""

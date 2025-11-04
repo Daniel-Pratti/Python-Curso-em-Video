@@ -1,3 +1,0 @@
-"""Maior peso: {}
-Menor peso {}
-"""
