@@ -5,3 +5,10 @@ Crie um programa que leia o nome completo de uma pessoa e mostre:
 - Quantas letras ao todo (sem considerar espaços).
 - Quantas letras tem o primeiro nome.
 """
+
+nome = str(input('Digite o seu nome:')).strip()
+print(nome.upper())
+print(nome.lower())
+print(len(nome.replace(' ', '')))
+nome_lista = nome.split()
+print(len(nome_lista[0]))
